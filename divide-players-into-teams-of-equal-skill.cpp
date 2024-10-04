@@ -1,23 +1,25 @@
 class Solution {
 public:
-    std::vector<int> arrayRankTransform(std::vector<int>& arr) {
-        std::unordered_map<int, int> valueToRank;  // Map to store value-to-rank mapping
-        std::vector<int> sortedUniqueNumbers = arr; 
-        
-        // Remove duplicates and sort
-        std::sort(sortedUniqueNumbers.begin(), sortedUniqueNumbers.end());
-        sortedUniqueNumbers.erase(std::unique(sortedUniqueNumbers.begin(), sortedUniqueNumbers.end()), sortedUniqueNumbers.end());
-        
-        // Assign ranks to sorted unique elements
-        for (int i = 0; i < sortedUniqueNumbers.size(); i++) {
-            valueToRank[sortedUniqueNumbers[i]] = i + 1;
+    static long long dividePlayers(vector<int>& skill) {
+        const int n=skill.size(), n_2=n/2;
+        long long sum=accumulate(skill.begin(), skill.end(), 0LL);
+        if (sum%n_2!=0) return -1;
+        int team_skill=sum/n_2;
+        sort(skill.begin(), skill.end());
+        long long chemi=0;
+        for(int i=0; i<n_2; i++){
+            long long l=skill[i], r=skill[n-1-i];
+            if (l+r!=team_skill) return -1;
+            chemi+=l*r;
         }
 
-        // Replace each element in the original array with its rank
-        for (int i = 0; i < arr.size(); i++) {
-            arr[i] = valueToRank[arr[i]];
-        }
-
-        return arr;  // Return the updated array
+        return chemi;
     }
 };
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
