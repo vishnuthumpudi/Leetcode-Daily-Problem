@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
