@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0148-sort-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
