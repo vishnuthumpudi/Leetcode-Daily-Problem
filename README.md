@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0125-valid-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
