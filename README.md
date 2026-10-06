@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
 | [0835-image-overlap](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
