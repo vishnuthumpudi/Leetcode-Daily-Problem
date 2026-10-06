@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0229-majority-element-ii) |
 | [0835-image-overlap](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0229-majority-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
@@ -204,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
