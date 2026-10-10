@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/3525-find-x-value-of-array-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -226,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
