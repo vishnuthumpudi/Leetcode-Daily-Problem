@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0229-majority-element-ii) |
 | [0835-image-overlap](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
+| [1254-number-of-closed-islands](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1254-number-of-closed-islands) |
 ## Geometry
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
