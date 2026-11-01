@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0229-majority-element-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/0912-sort-an-array) |
 | [1254-number-of-closed-islands](https://github.com/vishnuthumpudi/Leetcode-Daily-Problem/tree/master/1254-number-of-closed-islands) |
